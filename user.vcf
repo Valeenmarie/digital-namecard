@@ -3,8 +3,8 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Yi;Valeen;;;
 FN: Valeen Yi 
-ORG:GovTech;
-TITLE:Coordinator, blue horizon 
+ORG:blue horizon ;
+TITLE:Coordinator
 EMAIL;type=INTERNET;type=WORK;type=pref:valeen.yi@bluehorizon.com
 TEL;type=WORK;type=VOICE:+1 (323) 420-9708
 item2.URL;type=pref:bluehorizon.com
